@@ -1,0 +1,9 @@
+{
+  "name": "ぽかぽか広場 - 地域子育て応援＆お出かけ見守り",
+  "description": "保護者が安心して子供とお出かけでき、子どもも楽しみながら地域とつながる子育て応援Webアプリ。リアルタイム混雑メーター、見守りスタッフ、イベントカレンダー、QRスタンプラリー、ごほうび交換所、スタッフワンタップ管理機能を完備。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
